@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+This is a dribble clone.
 
-* System dependencies
+I implemented some of the main features to demonstrate my new skills with Ruby on Rails.
 
-* Configuration
+Main features:
 
-* Database creation
+* Upload files
+* Post a shot
+* register an user
+* Login System
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
